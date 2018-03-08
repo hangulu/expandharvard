@@ -35,4 +35,11 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
-~$*
+
+# Temporary files #
+###################
+*~
+~$*.doc*
+~$*.xls*
+*.xlk
+~$*.ppt*
