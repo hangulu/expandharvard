@@ -38,7 +38,11 @@ def scraper(city, ctype, endpoint):
         rent = scrape_div(citystats, 2)
         housing = scrape_div(citystats, 15)
 
-        values = [city, area_pop[0], area_pop[2], income[0], int(rent[0]), housing[0]]
+        if (rent == 'No data.'):
+            r = rent
+        else:
+            r = int(rent[1])
+        values = [city, area_pop[0], area_pop[2], income[0], r, housing[0]]
     elif ctype == 'City':
         raw_pop_dense = soup.find_all('section', class_ = 'population-density')
         raw_income = soup.find_all('section', class_ = 'median-income')
@@ -48,7 +52,11 @@ def scraper(city, ctype, endpoint):
         rent = scrape_div(raw_rent, 0)
         housing = scrape_div(raw_income[0].find_all('div', class_ = 'hgraph'), 1)
 
-        values = [city, area_pop[0], area_pop[1], income[0], int(rent[1]), housing[0]]
+        if (rent == 'No data.'):
+            r = rent
+        else:
+            r = int(rent[1])
+        values = [city, area_pop[0], area_pop[1], income[0], r, housing[0]]
     else:
         return "No"
 
