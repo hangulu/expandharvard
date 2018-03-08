@@ -27,7 +27,6 @@ def scrape_div(citystats, index):
 def scraper(city, ctype, endpoint):
     url = 'http://www.city-data.com/{}/{}.html'.format(ctype.lower(), endpoint)
     response = get(url)
-    print(url)
     soup = BeautifulSoup(response.text, 'html.parser')
     labels = ['City', 'Area', 'Population Density', 'City Income', 'City Rent', 'City Housing Price']
 
