@@ -1,0 +1,9 @@
+beautifulsoup4
+pandas
+numpy
+scipy
+causality
+sklearn
+matplotlib
+plotly
+jupyter

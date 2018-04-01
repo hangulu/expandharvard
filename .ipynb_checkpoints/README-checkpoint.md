@@ -3,6 +3,20 @@ The project analyzes the data available about the Harvard endowment and general 
 
 The final product is an [article](writeup.md) that explains the methodology of analysis, as well as the conclusions. The last section of this article is particularly useful:
 
+## Installation
+
+First, you'll need to install [pip](https://pip.pypa.io/en/stable/installing/) if you don't have it.
+
+Then, to install the requirements for the analysis, type the following in your terminal, at this directory.:
+
+`pip install -r requirements.txt`
+
+The analysis is separated into 5 [Jupyter Notebooks](http://jupyter.org/). To run any of them, type 
+
+`jupyter notebook` 
+
+in your terminal, at this directory, then navigate to the desired file using that interface.
+
 ### Moving Forward
 
 As this analysis and general intuition shows, Harvard University has a massive effect on the cities it is in. The presence of the University, and its ever-growing demand for space and resources, radically changes the people in these communities, and thus the culture and essential character of these communities. In short, the gentrification of Cambridge is an effect of Harvard's expansion.
@@ -17,10 +31,14 @@ This was the rationale for moving to other cities. They had already displaced pe
 
 The solution to these problems is outside of the scope of this analysis and article, but one can start by challenging Harvard as it expands, and supporting low-income people of color and their businesses in these cities. It is especially important for students, who often only experience the positive sides of Harvard's expansion, to support these communities. Check out Cambridge's [registry of small businesses owned by women and people of color](http://www.cambridgema.gov/CDD/econdev/resourcesforbusinesses/wmobassistance), and find ways to support and get involved.
 
-## Authors
+## Author
 
-* **Hakeem Angulu** - Harvard College Class of 2020 
-hangulu@college.harvard.edu
+**Hakeem Angulu** - Harvard College Class of 2020
+
+* [Email](mailto:hangulu@college.harvard.edu)
+* [GitHub](https://github.com/hangulu)
+
+
 
 ## License
 
