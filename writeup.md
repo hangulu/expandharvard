@@ -20,7 +20,7 @@ In 2003, then-president Lawrence Summers announced a [plan](http://www.thecrimso
 
 The Dean of the Division of Engineering and Applied Sciences (SEAS, before it was a school), Venkatesh “Venky” Narayanamurti, said at that time that ["if his department continues to grow, it will need more space than Cambridge can provide." ](http://www.thecrimson.com/article/2003/10/22/allston-plans-announced-a-science-hub/) Now, Harvard and Allston are giving engineering that space.
 
-As engineers, we should be rejoicing, right? After centuries of being solely focused on the liberal arts, Harvard College has dedicated the time, resources, and capital to engineering. However, the centuries of dedication to the liberal arts, and the emerging dedication to engineering, do not come without negative side-effects.
+Engineers should be rejoicing, right? After centuries of being solely focused on the liberal arts, Harvard College has dedicated the time, resources, and capital to engineering. However, the centuries of dedication to the liberal arts, and the emerging dedication to engineering, do not come without negative side-effects.
 
 ### Physical Impact
 
@@ -122,7 +122,7 @@ As this analysis and general intuition shows, Harvard University has a massive e
 
 Harvard, MIT, and Cambridge are often thought of as one, but there are people within the city that do not have access to the resources of these Universities, but are affected negatively by their presence. Businesses and families have been priced out, making the way for more capital-rich businesses and entities tied to the universities. These universities also refuse to pay anywhere close to the full amount of the PILOT, further offsetting the burden of operation onto the residents.
 
-Harvard University is quite aware of their impact and the possible backlash they may face from residents. Allston residents have long been uncomfortable with these expansions, forcing Harvard to make property purchases under fake names. Former head of Harvard Real Estate Incorporated and former vice-president for administration, Sally Zeckhauser, [said](https://harvardmagazine.com/2011/09/building-and-buying-a-campus) that as Harvard expanded within Cambridge, it began bumping against:
+Harvard University is quite aware of their impact and the possible backlash they may face from residents. Allston residents have long been uncomfortable with these expansions, forcing Harvard to make property purchases under fake names. Former head of Harvard Real Estate Inc. and former vice-president for administration, Sally Zeckhauser, [said](https://harvardmagazine.com/2011/09/building-and-buying-a-campus) that as Harvard expanded within Cambridge, it began bumping against:
 
 > "mature neighborhoods with sophisticated and politically active residents often seeking to preserve things just as they were.”
 
