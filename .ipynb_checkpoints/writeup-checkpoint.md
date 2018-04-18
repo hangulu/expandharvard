@@ -12,7 +12,7 @@ In Harvard's [video](https://www.youtube.com/watch?&v=J5Nel0AWDrc) announcing an
 
 > "Harvard University and Cambridge, Massachussetts: the two have shared a rich and symbiotic history for over 400 years." – Frank Doyle, Dean of SEAS
 
-That statement is followed up by a complication: **Harvard has already expanded across the river, into the nearest neighborhood in Boston: Allston.** Harvard Business School, Harvard Innovation Lab Complex, and the University's Athletics Complex all currently reside in Allston as relatively recent additions to Harvard's property. Harvard constructed the Athletics Complex in 1903, then HBS in 1927. This was the forebearer to the current foray into this neighborhood, and others in Boston like Longwood, where the Harvard Medical School and the Harvard T.H. Chan School of Public Health reside.
+That statement is followed up by a complication: **Harvard has already expanded across the river, into the nearest neighborhood in Boston: Allston.** Harvard Business School, Harvard Innovation Lab Complex, and the University's Athletics Complex all currently reside in Allston as relatively recent additions to Harvard's property. Harvard constructed the Athletics Complex in 1903, then HBS in 1927. These were the forebearers to the current foray into this neighborhood, and others in Boston like Longwood, where the Harvard Medical School and the Harvard T.H. Chan School of Public Health reside.
 
 In 2003, then-president Lawrence Summers announced a [plan](http://www.thecrimson.com/article/2003/10/22/allston-plans-announced-a-science-hub/) for more substantial expansion into Allston.
 
@@ -36,7 +36,7 @@ Harvard is not unlike other capital-rich entities. The long-running joke about H
 
 The net assets of the Harvard Corporation, established in 1650, are [\$44.6 billion](https://finance.harvard.edu/files/fad/files/harvard_ar_11_12016_final.pdf), and they oversee an endowment of [\$37.6 billion](https://www.harvard.edu/about-harvard/harvard-glance/endowment). This fact immediately puts Harvard in a position of power in the Cambridge and Allston communities. Small businesses and families simply cannot compete with that buying power, and that radically changes, or gentrifies, communities.
 
-Gentrification is the general term for the influx of wealthier people in an existing space, such that by mechanisms of economic and cultural displacement, the essential character of that space is changed. In this analysis, gentrification is almost always viewed as negative, and is shown to be a consequence of (or necessary for) the expansion of wealthy entities like Harvard University.
+Gentrification is the general term for the influx of wealthier people in an existing space, such that by mechanisms of economic and cultural displacement, the essential character of that space is changed. In this analysis, gentrification is shown to be a consequence of (or necessary for) the expansion of wealthy entities like Harvard University.
 
 Gentrification started as a government strategy for urban restructuring (Haylett, 2001). Former or contemporary industrial/working class communities would be uprooted and "restructured" to serve the interests of upper and middle class people. Now, the dominance of Harvard's capital prioritize the interests of the University over those of the people the University may displace. The result is the current state: Harvard's sprawl on Allston and Cambridge.
 
@@ -44,17 +44,23 @@ Gentrification started as a government strategy for urban restructuring (Haylett
 
 The "essential character" of a space is defined by the people and culture within it. To understand Harvard's effect on the people, culture, and essential character of Cambridge, one must examine the differences in these things over time.
 
-Harvard's growth can be measured by many features, from the growth of the student population to the differences in actual measurements of Harvard's physical size. With limited data on the change in these physical measurements, the growth of Harvard is proxied by the growth of its endowment. The endowment is the primary source for many of Harvard's purchases, and thus, unless through a capital campaign, Harvard funds its physical expansion through this medium.
+Harvard's growth can be measured by many features, from the growth of the student population to the differences in actual measurements of Harvard's physical size. The endowment is an example of one of these features.
+
+Harvard's endowment has grown, almost exponentially, from \$1.6 billion in 1981 to its current value of \$35.7 billion. Truncating the analysis to post-1990 and analyzing the differences in Cambridge allows the most impactful and responsible insights to be garnered from the data. ~5% of the endowment each year is used to cover 1/3 of [Harvard's operating expenses and expansion desires](http://www.thecrimson.com/article/2016/9/23/2016-hmc-returns-explained/), and this 5% figure grows each year with the growth of the endowment, which is facilitated by expert portfolio managers and the general growth of the market. In fact, the endowment has overperformed the market average return of [8.20%](http://www.moneychimp.com/features/market_cagr.htm), allowing for more discretionary funds for everything from new concentrations to property purchases and House Renewal.
 
 ![Harvard's Endowment](images/endowment_value.png "Harvard's Endowment")
 
-Harvard's endowment has grown, almost exponentially, from \$1.6 billion in 1981 to its current value of \$35.7 billion. Truncating the analysis to post-1990 and analyzing the differences in Cambridge allows the most impactful and responsible insights to be garnered from the data.
+A more direct, and perhaps more accurate, proxy of Harvard's growth is its literal growth in land usage in Cambridge. Since the year 2000, Harvard has increased its presence in Cambridge by about 3%, corresponding to about 2% of its overall assessed value, an increase of 281,219 square feet of land and \$115,226,500. Although the assessed value increase is so high, Harvard only paid \$57,548,900 for the property at their times of purchase, or \$65,929,240 when adjusted for inflation since 2000.
+
+https://plot.ly/~hangulu/84/the-change-in-harvards-land-in-cambridge-since-2000/
+
+![Land Changes](images/land_changes.png "Land Changes)
+
+With data from the 1990, 2000, and 2010 decennial censuses, a comparison of the population changes can be made. A superficial analysis of this data would suggest a counter-intuitive conclusion: that since the population of non-white people is increasing, the claims of gentrification are unfounded. However, when the non-white category is disaggregated, more interesting trends are seen. 
 
 https://plot.ly/~hangulu/66/the-change-in-population-demographics-for-cambridge-since-1990/
 
 ![Population Changes](images/popdem_delta.png "Population Changes")
-
-With data from the 1990, 2000, and 2010 decennial censuses, a comparison of the population changes can be made. A superficial analysis of this data would suggest a counter-intuitive conclusion: that since the population of non-white people is increasing, the claims of gentrification are unfounded. However, when the non-white category is disaggregated, more interesting trends are seen. 
 
 The Black population of Cambridge has been steadily declining since 1990, and the Asian population of Cambridge has been steadily increasing. The two groups fall under the category "non-white" or "people of color," and are often leveraged for data in those groups. This analysis, however, paints a more nuanced picture about changing demographics in Cambridge by disagreggating this category.
 
@@ -76,7 +82,7 @@ https://plot.ly/~hangulu/72/the-change-in-rent-in-cambridge-and-boston-since-200
 
 ![Rent Changes](images/rent_delta.png "Rent Changes")
 
-Perhaps even more worrying is that the median income of the two of these cities is converging, meaning that even though the cost of living of these two cities is increasing at different rates, the income of the residents will soon be the same. For people with relatively low and stagnant incomes, this makes Cambridge a harder city to live and do business in than Boston, and incentivizes emigration.
+Perhaps even more worrying is that the median income of the two of these cities is converging, meaning that **even though the cost of living of these two cities is increasing at different rates, the income of the residents will soon be the same.** For people with relatively low and stagnant incomes, this makes Cambridge a harder city to live and do business in than Boston, and incentivizes emigration. The change in rent, in particular, is important because low income families are likely unable to buy property, and these graphs show that rent is outpacing housing prices in its growth.
 
 https://plot.ly/~hangulu/74/the-change-in-median-income-of-cambridge-and-boston-residents-since-1990/
 
@@ -102,30 +108,39 @@ The PILOT program was meant to alleviate bureacratic tensions between these enti
 
 ### The Agent of Change
 
-Harvard University has a direct impact on Cambridge, as shown above through analyses of its payments to the city and property expansion. The growth of Harvard University, previously proxied by its endowment, is quite significant as well, and also has a direct impact. For example, the superficial connection between the growth of the endowment and the shrinking of the Black population of Cambridge seems quite clear:
+Harvard University has a direct impact on Cambridge, as shown above through analyses of its payments to the city and property expansion. The growth of Harvard University, previously proxied by its endowment and the change in land, is quite significant as well, and also has a direct impact. For example, the superficial connection between the growth of the endowment and the shrinking of the Black population of Cambridge seems quite clear:
 
 https://plot.ly/~hangulu/78/the-connection-between-endowment-and-black-population/
 
 ![Endowment and Black Population](images/endow_black_super.png "Endowment and Black Population")
 
+A similar connection exists between the growth of Harvard, proxied by its land purchases, and the shrinkage of the Black population between 2000 and 2012.
+
+https://plot.ly/~hangulu/86/the-connection-between-harvard-land-change-and-black-population/
+
+![Land Use and Black Population](images/land_black.png "Land Use and Black Population")
+
 However, this paints an unfair picture. One could argue that both the endowment and Black population of Cambridge could be controlled by some other variable, fueling this false dependency. Hence, using the Python package [`causality`](https://github.com/akelleh/causality) and a random forest regression model, a relationship that is controlled for the most obvious external factors, rent and housing prices, was created.
 
 ![Controlled Relationship Between Endowment and Black Population](images/black_endow.svg "Controlled Relationship Between Endowment and Black Population")
 
-This relationship, although noisy, *confirms the downward trend*, and thus the negative correlation between Harvard's growth, proxied by its endowment, and the growth of the Black population of Cambridge. A similar relationship is seen between the endowment and rent, as well as the endowment and housing, controlling for the growth of the population.
-
 ![Controlled Relationship Between Endowment and Housing Prices](images/housing_endow.svg "Controlled Relationship Between Endowment and Black Population")
+
+This relationship, although noisy, *confirms the downward trend*, and thus the negative correlation between Harvard's growth, proxied by its endowment, and the growth of the Black population of Cambridge. A similar relationship is seen between the endowment and rent, as well as the endowment and housing, controlling for the growth of the population. Looking at the other, more direct proxy for growth, land acquisition since 2000, the same relationship is apparent: Harvard's growth means shrinking populations of low-income people of color.
+
+![Controlled Relationship Between Land Use and Black Population](images/black_land.svg "Controlled Relationship Between Land Use and Black Population")
+
+![Controlled Relationship Between Land Use and Rent](images/rent_land.svg "Controlled Relationship Between Land Use and Rent")
+
 
 ### Moving Forward
 
 As this analysis and general intuition shows, Harvard University has a massive effect on the cities it is in. The presence of the University, and its ever-growing demand for space and resources, radically changes the people in these communities, and thus the culture and essential character of these communities. In short, the gentrification of Cambridge is an effect of Harvard's expansion.
 
-Harvard, MIT, and Cambridge are often thought of as one, but there are people within the city that do not have access to the resources of these Universities, but are affected negatively by their presence. Businesses and families have been priced out, making the way for more capital-rich businesses and entities tied to the universities. These universities also refuse to pay anywhere close to the full amount of the PILOT, further offsetting the burden of operation onto the residents.
+Harvard, MIT, and Cambridge are often thought of as one, but there are people within the city that do not have access to the resources of these Universities, but, as shown above, are affected negatively by their presence. Businesses and families have been priced out, making the way for more capital-rich businesses and entities tied to the universities. As discussed above, when Harvard buys land, the assessed property value skyrockets, as does the cost of living in the areas in which these purchases are made. These universities also refuse to pay anywhere close to the full amount of the PILOT, further offsetting the burden of operation onto the residents.
 
-Harvard University is quite aware of their impact and the possible backlash they may face from residents. Allston residents have long been uncomfortable with these expansions, forcing Harvard to make property purchases under fake names. Former head of Harvard Real Estate Inc. and former vice-president for administration, Sally Zeckhauser, [said](https://harvardmagazine.com/2011/09/building-and-buying-a-campus) that as Harvard expanded within Cambridge, it began bumping against:
+Harvard University is quite aware of their impact and the possible backlash they may face from residents. Allston residents have long been uncomfortable with these expansions, forcing Harvard to make property purchases [anonymously](https://www.nytimes.com/1997/06/17/us/some-seeing-crimson-at-harvard-land-grab.html). Former head of Harvard Real Estate Inc. and former vice-president for administration, Sally Zeckhauser, [said](https://harvardmagazine.com/2011/09/building-and-buying-a-campus) that as Harvard expanded within Cambridge, it began bumping against:
 
 > "mature neighborhoods with sophisticated and politically active residents often seeking to preserve things just as they were.”
 
 This was the rationale for moving to other cities. They had already displaced people who were "unsophisticated" and "politically inactive," which are dog-whistles for low-income people of color, so it was time to move on. Where to? Allston.
-
-The solution to these problems is outside of the scope of this analysis and article, but one can start by challenging Harvard as it expands, and supporting low-income people of color and their businesses in these cities. It is especially important for students, who often only experience the positive sides of Harvard's expansion, to support these communities. Check out Cambridge's [registry of small businesses owned by women and people of color](http://www.cambridgema.gov/CDD/econdev/resourcesforbusinesses/wmobassistance), and find ways to support and get involved.
