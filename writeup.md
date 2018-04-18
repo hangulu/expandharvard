@@ -12,7 +12,7 @@ In Harvard's [video](https://www.youtube.com/watch?&v=J5Nel0AWDrc) announcing an
 
 > "Harvard University and Cambridge, Massachussetts: the two have shared a rich and symbiotic history for over 400 years." – Frank Doyle, Dean of SEAS
 
-That statement is followed up by a complication: **Harvard has already expanded across the river, into the nearest neighborhood in Boston: Allston.** Harvard Business School, Harvard Innovation Lab Complex, and the University's Athletics Complex all currently reside in Allston as relatively recent additions to Harvard's property. Harvard constructed the Athletics Complex in 1903, then HBS in 1927. These were the forebearers to the current foray into this neighborhood, and others in Boston like Longwood, where the Harvard Medical School and the Harvard T.H. Chan School of Public Health reside.
+That statement is followed up by a complication: **Harvard has already expanded across the river, into the nearest neighborhood in Boston: Allston.** Harvard Business School, Harvard Innovation Lab Complex, and the University's Athletics Complex all currently reside in Allston as relatively recent additions to Harvard's property. Harvard constructed the Athletics Complex in 1903, then HBS in 1927. These were the forebears to the current foray into this neighborhood, and others in Boston like Longwood, where the Harvard Medical School and the Harvard T.H. Chan School of Public Health reside.
 
 In 2003, then-president Lawrence Summers announced a [plan](http://www.thecrimson.com/article/2003/10/22/allston-plans-announced-a-science-hub/) for more substantial expansion into Allston.
 
@@ -34,7 +34,7 @@ Over time, as Harvard expanded its educational scope with a medical school, a di
 
 Harvard is not unlike other capital-rich entities. The long-running joke about Harvard is that it is just a billion-dollar hedge fund with a school attached.
 
-The net assets of the Harvard Corporation, established in 1650, are [\$44.6 billion](https://finance.harvard.edu/files/fad/files/harvard_ar_11_12016_final.pdf), and they oversee an endowment of [\$37.6 billion](https://www.harvard.edu/about-harvard/harvard-glance/endowment). This fact immediately puts Harvard in a position of power in the Cambridge and Allston communities. Small businesses and families simply cannot compete with that buying power, and that radically changes, or gentrifies, communities.
+The net assets of the Harvard Corporation, established in 1650, are [\$44.6 billion](https://finance.harvard.edu/files/fad/files/harvard_ar_11_12016_final.pdf), and they oversee an endowment of [\$37.6 billion](https://www.harvard.edu/about-harvard/harvard-glance/endowment). This fact immediately puts Harvard in a position of power in the Cambridge and Allston communities. Small businesses and families simply cannot compete with that buying power, and that radically changes communities.
 
 Gentrification is the general term for the influx of wealthier people in an existing space, such that by mechanisms of economic and cultural displacement, the essential character of that space is changed. In this analysis, gentrification is shown to be a consequence of (or necessary for) the expansion of wealthy entities like Harvard University.
 
